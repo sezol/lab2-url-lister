@@ -20,6 +20,7 @@ I converted the WordCount example into UrlCount using the Hadoop Streaming API w
 - Google Cloud Dataproc documentation
 - Google Cloud Skills Boost lab "Dataproc: Qwik Start - Command Line" (GSP104) to learn the gcloud dataproc command line workflow
 - Course Piazza thread for help with a Dataproc permissions error (had to grant storage.admin role to the default compute service account)
+- Used Claude (AI assistant) occasionally for help debugging setup issues and understanding some of the gcloud/Hadoop error messages
 
 ## Collaboration
 
